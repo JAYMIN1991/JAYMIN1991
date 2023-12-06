@@ -21,3 +21,7 @@ Advanced AWS Services and React JS, Typescript,
 ⚡ Fun fact:
 I love Play Game.
 
+🌐 Socials:
+Twitter Instagram LinkedIn Stack Overflow
+
+
